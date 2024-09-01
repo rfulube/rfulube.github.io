@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rfulube.github.io/sitemap.html.gz
+Sitemap: https://rfulube.github.io/app/sitemap.html.gz
+Sitemap: https://rfulube.github.io/assets/sitemap.html.gz
+Sitemap: https://rfulube.github.io/css/sitemap.html.gz
+Sitemap: https://rfulube.github.io/includes/sitemap.html.gz
+Sitemap: https://rfulube.github.io/item/sitemap.html.gz
+Sitemap: https://rfulube.github.io/src/sitemap.html.gz
